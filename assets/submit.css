@@ -1,0 +1,16 @@
+body{
+   background-color: #F8F0DF;
+   color: #DF0054;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+}
+
+h1{
+   font-size: 6rem;
+   margin-bottom: 4rem;
+   font-family: 'Comforter Brush', cursive;  
+
+}
