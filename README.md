@@ -28,3 +28,14 @@ Go to the site https://mail-inbox-sujay000.herokuapp.com/ it is cloud deployed o
 * https://www.youtube.com/watch?v=Oy5F9h5JqEU
 * https://www.youtube.com/watch?v=Y2ec4KQ7mP8
 * https://www.youtube.com/watch?v=-rcRf7yswfM
+
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+|  Color 1 | ![#F8F0DF](https://via.placeholder.com/10/F8F0DF?text=+) #F8F0DF |
+|  Color 2 | ![#DF0054](https://via.placeholder.com/10/DF0054?text=+) #DF0054 |
+
+
+
